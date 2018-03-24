@@ -1,0 +1,8 @@
+/.settings/
+target/
+/.idea/
+/.classpath
+/.springBeans
+/.project
+/ssm_shiro_blog.iml
+/.gitattributes
